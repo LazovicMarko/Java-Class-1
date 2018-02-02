@@ -38,9 +38,9 @@ public class Statements {
         System.out.println("2 + 2 = ");
         int answer = s.nextInt();
         if (answer == 4) {
-            System.out.println("Correct answer!");
+            System.out.println("Correct answer! ");
         } else {
-            System.out.println("Wrong answer!");
+            System.out.println("Wrong answer! ");
         }
     }
 
